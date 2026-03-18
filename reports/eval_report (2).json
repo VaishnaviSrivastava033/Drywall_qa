@@ -1,0 +1,17 @@
+{
+  "segment crack": {
+    "mIoU": 0.4602,
+    "Dice": 0.6114,
+    "n": 112
+  },
+  "segment taping area": {
+    "mIoU": 0.5225,
+    "Dice": 0.6671,
+    "n": 500
+  },
+  "overall": {
+    "mIoU": 0.5111,
+    "Dice": 0.6569,
+    "n": 612
+  }
+}
