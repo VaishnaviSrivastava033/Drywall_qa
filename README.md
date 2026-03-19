@@ -132,7 +132,7 @@ Average inference time: ~35 ms/image on GPU (RTX 3090), ~200 ms on CPU.
 
 ## Results
 
-*(Fill in your own after training, these are my samples)*
+*(Fill in your own after training, these are my samples for reference)*
 
 | Prompt | mIoU | Dice | n (test) |
 |--------|------|------|----------|
