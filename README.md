@@ -136,9 +136,9 @@ Average inference time: ~35 ms/image on GPU (RTX 3090), ~200 ms on CPU.
 
 | Prompt | mIoU | Dice | n (test) |
 |--------|------|------|----------|
-| segment taping area | – | – | – |
-| segment crack | – | – | – |
-| **Overall** | **–** | **–** | – |
+| segment taping area | 0.5225 | 0.6671 | 500 |
+| segment crack | 0.4602 | 0.6114 | 112 |
+| **Overall** | 0.5111 | 0.6569 | 612 |
 
 ## Failure Notes
 
